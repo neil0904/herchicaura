@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("#grandmart-ui-tabs").tabs()});
